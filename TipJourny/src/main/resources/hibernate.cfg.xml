@@ -11,9 +11,9 @@
         <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
         <property name="hbm2ddl.auto">update</property> 
         <property name="show_sql">true</property>    
-        <mapping class="T_Journy_Entity.User" />  
-        <mapping class="T_Journy_Entity.Places" />  
-        <mapping class="T_Journy_Entity.Journy_Related_Product" />  
+      //  <mapping class="T_Journy_Entity.User" />  
+        //<mapping class="T_Journy_Entity.Places" />  
+        //<mapping class="T_Journy_Entity.Journy_Related_Product" />  
                     
         
     </session-factory>
